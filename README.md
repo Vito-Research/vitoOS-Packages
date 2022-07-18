@@ -2,7 +2,7 @@
 
 Packages for vitoOS
 
-> These packages are sourced from [[https://aur.archlinux.org/]]()
+> These packages are sourced from [[https://aur.archlinux.org/]]
 
 
 
