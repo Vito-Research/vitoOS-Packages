@@ -17,3 +17,9 @@ sudo pacman -S python-tzlocal
 sudo pacman -S python-validators
 sudo pacman -S python-watchdog
 
+yay -S python-base58
+yay -S python-click
+yay -S python-pydeck
+yay -S python-pympler
+yay -S python-requests
+yay -S python-watchdog
